@@ -1,0 +1,22 @@
+C:\Users\chandni1\Desktop\CRUDApplication\src\CRUDApplication\bin\Debug\netcoreapp1.0\CRUDApplication.deps.json
+C:\Users\chandni1\Desktop\CRUDApplication\src\CRUDApplication\bin\Debug\netcoreapp1.0\CRUDApplication.runtimeconfig.json
+C:\Users\chandni1\Desktop\CRUDApplication\src\CRUDApplication\bin\Debug\netcoreapp1.0\CRUDApplication.runtimeconfig.dev.json
+C:\Users\chandni1\Desktop\CRUDApplication\src\CRUDApplication\bin\Debug\netcoreapp1.0\CRUDApplication.dll
+C:\Users\chandni1\Desktop\CRUDApplication\src\CRUDApplication\bin\Debug\netcoreapp1.0\CRUDApplication.pdb
+C:\Users\chandni1\Desktop\CRUDApplication\src\CRUDApplication\obj\Debug\netcoreapp1.0\CRUDApplication.csprojAssemblyReference.cache
+C:\Users\chandni1\Desktop\CRUDApplication\src\CRUDApplication\obj\Debug\netcoreapp1.0\CRUDApplication.csproj.CoreCompileInputs.cache
+C:\Users\chandni1\Desktop\CRUDApplication\src\CRUDApplication\obj\Debug\netcoreapp1.0\CRUDApplication.AssemblyInfoInputs.cache
+C:\Users\chandni1\Desktop\CRUDApplication\src\CRUDApplication\obj\Debug\netcoreapp1.0\CRUDApplication.AssemblyInfo.cs
+C:\Users\chandni1\Desktop\CRUDApplication\src\CRUDApplication\obj\Debug\netcoreapp1.0\CRUDApplication.dll
+C:\Users\chandni1\Desktop\CRUDApplication\src\CRUDApplication\obj\Debug\netcoreapp1.0\CRUDApplication.pdb
+C:\Users\chandni1\Desktop\MVC_Practice Projects\MVC_Practice Projects\CRUDApplication\src\CRUDApplication\bin\Debug\netcoreapp1.0\CRUDApplication.deps.json
+C:\Users\chandni1\Desktop\MVC_Practice Projects\MVC_Practice Projects\CRUDApplication\src\CRUDApplication\bin\Debug\netcoreapp1.0\CRUDApplication.runtimeconfig.json
+C:\Users\chandni1\Desktop\MVC_Practice Projects\MVC_Practice Projects\CRUDApplication\src\CRUDApplication\bin\Debug\netcoreapp1.0\CRUDApplication.runtimeconfig.dev.json
+C:\Users\chandni1\Desktop\MVC_Practice Projects\MVC_Practice Projects\CRUDApplication\src\CRUDApplication\bin\Debug\netcoreapp1.0\CRUDApplication.dll
+C:\Users\chandni1\Desktop\MVC_Practice Projects\MVC_Practice Projects\CRUDApplication\src\CRUDApplication\bin\Debug\netcoreapp1.0\CRUDApplication.pdb
+C:\Users\chandni1\Desktop\MVC_Practice Projects\MVC_Practice Projects\CRUDApplication\src\CRUDApplication\obj\Debug\netcoreapp1.0\CRUDApplication.csprojAssemblyReference.cache
+C:\Users\chandni1\Desktop\MVC_Practice Projects\MVC_Practice Projects\CRUDApplication\src\CRUDApplication\obj\Debug\netcoreapp1.0\CRUDApplication.csproj.CoreCompileInputs.cache
+C:\Users\chandni1\Desktop\MVC_Practice Projects\MVC_Practice Projects\CRUDApplication\src\CRUDApplication\obj\Debug\netcoreapp1.0\CRUDApplication.AssemblyInfoInputs.cache
+C:\Users\chandni1\Desktop\MVC_Practice Projects\MVC_Practice Projects\CRUDApplication\src\CRUDApplication\obj\Debug\netcoreapp1.0\CRUDApplication.AssemblyInfo.cs
+C:\Users\chandni1\Desktop\MVC_Practice Projects\MVC_Practice Projects\CRUDApplication\src\CRUDApplication\obj\Debug\netcoreapp1.0\CRUDApplication.dll
+C:\Users\chandni1\Desktop\MVC_Practice Projects\MVC_Practice Projects\CRUDApplication\src\CRUDApplication\obj\Debug\netcoreapp1.0\CRUDApplication.pdb
